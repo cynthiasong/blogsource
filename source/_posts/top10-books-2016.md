@@ -1,5 +1,9 @@
 ---
-title: 推书 | 2016相见恨晚的10本书
+title: 推书 | 2016年让我相见恨晚的10本书
+date: 2017-02-27 14:02:00
+tags: 读书
+categories: 书单
+thumbnail: http://om0tlaiou.bkt.clouddn.com/daily_pic_default.png
 ---
 
 >人生没有后悔药。不过总有一些书——就像一切好东西一样——会让人忍不住感慨“如果我早读过这本书就好了”。年终总结之季，挑出去年发现的10本好书推荐。
